@@ -1,5 +1,5 @@
 # ML-BASICS
-Step towards learning data science and machine learning
+For learning data science and machine learning
 
 Programs were made using google colab 
 
